@@ -1,7 +1,7 @@
 = First steps
 :page-aliases: first-steps.adoc
 
-We recommend you to choose an example from our https://github.com/apache/camel-quarkus/tree/master/examples[source tree]
+We recommend you to choose an example from our https://github.com/apache/camel-quarkus-examples/tree/master[source tree]
 as a base for your real-world project.
 
 == Prerequisites
